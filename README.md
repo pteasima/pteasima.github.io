@@ -1,5 +1,5 @@
 # pteasima.github.io
-My proffesional landing page
+My professional landing page
 
 ptea.sima@gmail.com
 
